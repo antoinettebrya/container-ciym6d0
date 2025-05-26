@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "antoinettebrya",
+  "repo": "container-ciym6d0",
+  "name": "antoinettebrya",
+  "email": "antoinettebrya18@gmail.com",
+}
